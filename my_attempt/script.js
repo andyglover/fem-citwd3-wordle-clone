@@ -35,4 +35,4 @@ for (let i = 0; i < letters.length; i++) {
     }
   });
 }
-//TODO implement backspace next.
+//TODO implement backspace -- tried to do this but couldn't get addEventListener to hear the backspace key when it's in an empty input.
